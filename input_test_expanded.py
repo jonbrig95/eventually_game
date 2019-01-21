@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import random
 
 Muskets = ["Jon", "James", "Anthony"]
@@ -28,8 +29,9 @@ def kingStarting():
         musketCheck()
         
     else:
-        print("You've been executed, thanks for your time")
-        jewelAmount = 0
+        print("You've mimport random
+
+Muskets = ["Jon", "= 0
         global alive
         alive = False
         return alive
@@ -55,8 +57,6 @@ def jewelRun():
 
 kingStarting()
 jewelRun()
-
     
-
 
 
